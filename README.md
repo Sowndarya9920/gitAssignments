@@ -28,6 +28,10 @@ I'm Sowndarya from India , currently living in Gudalur , Tamilnadu. I had comple
 
 ## 🛠 Skills
 - Java
+
+![java-logo-vert-blk](https://user-images.githubusercontent.com/112794922/231190581-30513a0f-1c97-4656-b24b-bc579fe6226f.png)
+
+
 - OOPS
 - MySql
 
